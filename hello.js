@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello Mario",6575671+2843859344,"Hello Luigi",'Hello "Wario"');
 
 /*  
 Next, PLAY! 
